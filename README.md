@@ -1,3 +1,7 @@
+<img width="1856" height="912" alt="image" src="https://github.com/user-attachments/assets/d50fd1c2-84d5-4269-8911-2f0291bcfe92" />
+<img width="1870" height="907" alt="image" src="https://github.com/user-attachments/assets/4008b7ff-5137-48a6-9ff7-6ab01ed2f70c" />
+
+
 # 🧺 Melisa'nın Mutfağı
 
 > Aile için tasarlanmış, akıllı ve kullanımı kolay bir alışveriş listesi uygulaması.
